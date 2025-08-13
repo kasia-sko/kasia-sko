@@ -26,6 +26,8 @@ In my free time, I enjoy learning foreign languages ![United Kingdom](https://ra
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-000000?style=flat&logo=apache-maven&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-000000?style=flat&logo=power-bi&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-000000?style=flat&logo=dax&logoColor=white)
 
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
