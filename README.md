@@ -1,7 +1,7 @@
 # Hi👋, I'm Kasia!
 
 ## About Me:
-I am a second year student of Data Engineering nad Analysis at the Faculty of Mathematics and Informaction Science at Warsaw Univeristy of Technology.
+I am a third year student of Data Engineering nad Analysis at the Faculty of Mathematics and Informaction Science at Warsaw Univeristy of Technology.
 
 I am a quick learner and eager to expand my knowledge in various fields of technology and data science. 
 In my free time, I enjoy learning foreign languages ![United Kingdom](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png "United Kingdom")
@@ -40,5 +40,5 @@ In my free time, I enjoy learning foreign languages ![United Kingdom](https://ra
 * [Walutozaur Currency App](https://github.com/kasia-sko/ProgramowanieObiektoweJava/tree/main/ZPOiF_projekt) - an application made in **Java**, where you can check currency exchange rates obtained from the National Bank of Poland.
 * [Share a Part Save a Heart Poster](https://github.com/kasia-sko/TechnikiWizualizacjiDanych/tree/main/project_1) - a poster about organ transplants made using **R** and Canva,
 * [My Day Shiny App](https://github.com/kasia-sko/TechnikiWizualizacjiDanych/tree/main/project_2) - a **Shiny** app about daily activities and phone usage,
-* [SVD Algebra](https://github.com/kasia-sko/LinearAlgebraInDataAnalysis) - a project in **Python** analyzing the applications of Singular Value Decomposition (SVD),
+* [SVD Algebra](https://github.com/kasia-sko/AlgebraInDataScience) - a project in **Python** analyzing the applications of Singular Value Decomposition (SVD),
 * [Numerical Methods](https://github.com/kasia-sko/NumericalMethods) - two projects made in **MATLAB**: Simpson's method for approximating the value of an integral and Gauss-Seidel method for solving matrix equasions.
