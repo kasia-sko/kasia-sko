@@ -28,6 +28,7 @@ In my free time, I enjoy learning foreign languages ![United Kingdom](https://ra
 ![Maven](https://img.shields.io/badge/Maven-000000?style=flat&logo=apache-maven&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-000000?style=flat&logo=power-bi&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-000000?style=flat&logo=dax&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
@@ -36,7 +37,10 @@ In my free time, I enjoy learning foreign languages ![United Kingdom](https://ra
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## 💻📊Projects :
+## 💻📊 Selected projects :
+* [Flower Clustering](https://github.com/kasia-sko/IntroductionToMachineLearning/tree/main/projekt_2) and [Diabetes Classification](https://github.com/kasia-sko/IntroductionToMachineLearning/tree/main/projekt_1) - Two machine learning projects implemented in Python, focusing on unsupervised and supervised learning.
+* [Hiperparameter Tunability](https://github.com/kasia-sko/HyperparameterTunability) - Sensitivity analysis of three classification algorithms (Decision Tree, KNN, and XGBoost) regarding hyperparameter optimization.
+* [Mini AutoML System](https://github.com/kasia-sko/Mini-AutoMLSystem) -  A simplified AutoML system utilizing a model portfolio to automate binary classification tasks on any given dataset.
 * [Walutozaur Currency App](https://github.com/kasia-sko/ProgramowanieObiektoweJava/tree/main/ZPOiF_projekt) - an application made in **Java**, where you can check currency exchange rates obtained from the National Bank of Poland.
 * [Share a Part Save a Heart Poster](https://github.com/kasia-sko/TechnikiWizualizacjiDanych/tree/main/project_1) - a poster about organ transplants made using **R** and Canva,
 * [My Day Shiny App](https://github.com/kasia-sko/TechnikiWizualizacjiDanych/tree/main/project_2) - a **Shiny** app about daily activities and phone usage,
